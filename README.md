@@ -2,6 +2,9 @@
 
 🛑 Features 🛑
 
+🧿This is Full stack java Web Application used by book sellers and students to buy books . Their are separate sections for both admins and users . They both have   
+ different functions and functionalities. 
+
 
 🎯 User Panel :
 
